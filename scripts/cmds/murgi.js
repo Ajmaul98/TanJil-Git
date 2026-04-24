@@ -21,15 +21,15 @@ module.exports.onStart = async function({ api, args, Users, event}) {
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
 a("তোর 𝗔𝗬𝗔𝗡 আব্বু এর চোদা লো");
-setTimeout(() => {a({body: "খাংকির পোলা তর মারে চুদি  AMi ❁𝗔𝗬𝗔𝗡𖣘𝗞𝗢𝗢𝗞𝗜𝗘𖠌 🥰।" + " " + name, mentions: arraytag})}, 3000);
-setTimeout(() => {a({body: "খাংকির পোলা তর কচি বোন রে আমি Ayan বা্ঁবু্ঁ  চুদি  😍.." + " " + name, mentions: arraytag})}, 5000);
-setTimeout(() => {a({body: "মাদারচোদ তর আম্মু পম পম খাংকির পো আমি তোর বাপ বায়জিদ 🐰" + " " + name, mentions: arraytag})}, 7000);
-setTimeout(() => {a({body: "খাংকির পোলা তর কচি ভুদায় ভুদায় কামর দিমু i Am তোর আব্বু জয় 💔!" + " " + name, mentions: arraytag})}, 9000);
+setTimeout(() => {a({body: "খাংকির পোলা তর মারে চুদি  AMi killua𖣘𝗞𝗢𝗢𝗞𝗜𝗘𖠌 🥰।" + " " + name, mentions: arraytag})}, 3000);
+setTimeout(() => {a({body: "খাংকির পোলা তর কচি বোন রে আমি  চুদি  😍.." + " " + name, mentions: arraytag})}, 5000);
+setTimeout(() => {a({body: "মাদারচোদ তর আম্মু পম পম খাংকির পো আমি তোর বাপkiluua 🐰" + " " + name, mentions: arraytag})}, 7000);
+setTimeout(() => {a({body: "খাংকির পোলা তর কচি ভুদায় ভুদায় কামর দিমু i Am তোর আব্বু killua 💔!" + " " + name, mentions: arraytag})}, 9000);
 setTimeout(() => {a({body: "খাংকি মাগির পোলা কথা ক কম কম তর আম্মু রে চুদে বানামু আইটেম বোম " + " " + name, mentions: arraytag})}, 12000);
 setTimeout(() => {a({body: "depression থেকেও তর মাইরে চু*** দি 🤬 " + " " + name, mentions: arraytag})}, 15000);
 setTimeout(() => {a({body: "তর আম্মু রে আচার এর লোভ দেখি চুদি মাগির পোলা🤬" + " " + name, mentions: arraytag})}, 17000);
 setTimeout(() => {a({body: "বান্দির পোলা তর কচি বোনের ভুদা ফাক কর থুতু দিয়ে ভুদায় দন ডুকামু 🤟" + " " + name, mentions: arraytag})}, 20000);
-setTimeout(() => {a({body: "বান্দি মাগির পোলা তর আম্মু রে চুদি তর দুলা ভাই এর কান্দে ফেলে  Power OF Ayan বা্ঁবু্ঁ BoT🤝" + " " + name, mentions: arraytag})},23000);
+setTimeout(() => {a({body: "বান্দি মাগির পোলা তর আম্মু রে চুদি তর দুলা ভাই এর কান্দে ফেলে  Power OF killua BoT🤝" + " " + name, mentions: arraytag})},23000);
 setTimeout(() => {a({body: "উফফফ খাদ্দামা মাগির পোলা তর আম্মুর কালা ভুদায় আমার মাল আউট তর কচি বোন রে উপ্তা করে এবার চুদবো  💉।" + " " + name, mentions: arraytag})}, 25000);
 setTimeout(() => {a({body: "অনলাইনে গালি বাজ হয়ে গেছত মাগির পোলা এমন চুদা দিমু লাইফ টাইম মনে রাখভি জয় তর বাপ মাগির ছেলে 😘।" + " " + name, mentions: arraytag})}, 28500);
 setTimeout(() => {a({body: "বাতিজা শুন তর আম্মু রে চুদলে রাগ করবি না তো আচ্ছা জা রাগ করিস না তর আম্মুর কালা ভুদায় আর চুদলাম না তো বোন এর জামা টা খুলে দে  ✋" + " " + name, mentions: arraytag})},31000);
@@ -90,7 +90,7 @@ setTimeout(() => {a({body: "কান্দে ফালাইয়া তর ম�
 setTimeout(() => {a({body: "তর আম্মুর উপ্তা কইরা চুদা দিমু।।" + " " + name, mentions: arraytag})}, 28500);
 setTimeout(() => {a({body: "হিজলা মাগির সন্তান বালি দিয়া চুদমু তরে খাঙ্কি মাগী!তর মাকে।  ✋" + " " + name, mentions: arraytag})},31000);
 setTimeout(() => {a({body: "তর বোন ভোদা ছিল্লা লবণ লাগায় দিমু। " + " " + name, mentions: arraytag})}, 36000);
-setTimeout(() => {a("~আয়ান  এর সন্তান। জা ভাগ🤖")} , 39000);
+setTimeout(() => {a("~khankir  এর সন্তান। জা ভাগ🤖")} , 39000);
 
 
 
