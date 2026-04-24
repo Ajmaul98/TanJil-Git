@@ -27,18 +27,17 @@ module.exports = {
 ⎯ [(🌷) OWNER INFO (🌷)] ⎯
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-Name   : TanJil Hasan 🎀
+Name   : killua 🎀
 UID    : ${senderID}
-U.n.   : tanjilhasan420
-Age    : 𝟷𝟿+
-House  : Dhaka
+Age    : 18+
+House  : joypurhat 
 Status : Single
 
 ⎯⎯ [ 🤖 BOT INFO 🤖 ] ⎯⎯
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-Name   : Hi Na Ta 
-UID    : 61579021162546
+Name   : shi zu ka 
+UID    : 61555620992979
 U.n.   : 𝙴𝚁𝚁𝙾𝚁
 Age    : 1+
 House  : Indonesia
